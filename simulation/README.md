@@ -1,4 +1,4 @@
-This repository contains codes to replicate the simulation results in our paper.
+This repository contains all necessary codes to replicate the simulation results in our paper.
 
 Make sure that you have the following R packages installed:
 ```{r}
